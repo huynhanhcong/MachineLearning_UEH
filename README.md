@@ -36,7 +36,7 @@ Mỗi thư mục chứa các hình ảnh JPG/PNG có chất lượng cao để p
 ### 📥 Tải xuống bộ dữ liệu
 
 👉 **Tải về tại đây:**  
-[https://drive.google.com/drive/folders/1RAW5qVPL2ejq_VxxZyK3xNQVIWsyrJwU?usp=sharing](https://drive.google.com/drive/folders/1RAW5qVPL2ejq_VxxZyK3xNQVIWsyrJwU?usp=sharing)
+[https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset/data](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset/data)
 
 > ⚠️ *Lưu ý: Hãy đảm bảo bạn đã đăng nhập Google Drive để truy cập liên kết.*
 
