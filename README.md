@@ -1,4 +1,3 @@
-
 🔍 Giới thiệu bộ dữ liệu hình ảnh bệnh da liễu (Skin Disease Image Dataset)
 Bộ dữ liệu Skin10 Dataset là tập hợp gồm các hình ảnh lâm sàng thuộc 10 loại bệnh da liễu phổ biến, được biên soạn nhằm phục vụ cho mục đích nghiên cứu, huấn luyện và phát triển mô hình trí tuệ nhân tạo trong lĩnh vực da liễu.
 📂 Cấu trúc dữ liệu
