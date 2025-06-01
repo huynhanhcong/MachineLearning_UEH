@@ -1,24 +1,23 @@
 ## 🔍 Giới thiệu bộ dữ liệu hình ảnh bệnh da liễu (Skin Disease Image Dataset)
 
-Bộ dữ liệu **Skin10 Dataset** là tập hợp gồm các hình ảnh lâm sàng thuộc **10 loại bệnh da liễu phổ biến**,  
+Bộ dữ liệu **Skin8 Dataset** là tập hợp gồm các hình ảnh lâm sàng thuộc **8 loại bệnh da liễu phổ biến**,  
 được biên soạn nhằm phục vụ cho mục đích nghiên cứu, huấn luyện và phát triển mô hình trí tuệ nhân tạo trong lĩnh vực da liễu.
 
 ---
 
 ### 📂 Cấu trúc dữ liệu
 
-Bộ dữ liệu gồm **10 thư mục**, mỗi thư mục tương ứng với một loại bệnh da cụ thể:
+Bộ dữ liệu gồm **8 thư mục**, mỗi thư mục tương ứng với một loại bệnh da cụ thể:
 
-- 📁 `eczema` – Chàm  
-- 📁 `melanoma` – U ác hắc tố  
-- 📁 `atopic_dermatitis` – Viêm da cơ địa  
-- 📁 `basal_cell_carcinoma` – Ung thư biểu mô tế bào đáy  
-- 📁 `melanocytic_nevi` – Nốt ruồi sắc tố  
-- 📁 `benign_keratosis` – Tổn thương lành tính giống dày sừng  
-- 📁 `psoriasis_lichen_planus` – Vảy nến, lichen phẳng và bệnh liên quan  
-- 📁 `seborrheic_keratoses` – Dày sừng tiết bã và u lành tính khác  
-- 📁 `fungal_infections` – Hắc lào, nấm candida và các bệnh nấm da  
-- 📁 `viral_infections` – Mụn cóc, u mềm lây và các bệnh do virus  
+- 📁 `Cellulitis` 
+- 📁 `Impetigo` 
+- 📁 `Athelete-Foot`
+- 📁 `Nail-Fungus`
+- 📁 `Ringworm`
+- 📁 `Cutaneous-larva-migrans`
+- 📁 `Chickenpox`
+- 📁 `Shingles`
+
 
 Mỗi thư mục chứa các hình ảnh JPG/PNG có chất lượng cao để phục vụ xử lý ảnh y khoa.
 
